@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8762" started-at="2017-09-30T07:27:26Z" finished-at="2017-09-30T07:27:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8762" started-at="2017-09-30T07:27:26Z" finished-at="2017-09-30T07:27:34Z">
+      <class name="by.htp.news.service.impl.TestService">
+        <test-method status="PASS" signature="initServiceNews()[pri:0, instance:by.htp.news.service.impl.TestService@6e1567f1]" name="initServiceNews" is-config="true" duration-ms="5450" started-at="2017-09-30T10:27:26Z" finished-at="2017-09-30T10:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initServiceNews -->
+        <test-method status="PASS" signature="listNewsTestHomepage()[pri:1, instance:by.htp.news.service.impl.TestService@6e1567f1]" name="listNewsTestHomepage" duration-ms="941" started-at="2017-09-30T10:27:31Z" finished-at="2017-09-30T10:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listNewsTestHomepage -->
+        <test-method status="PASS" signature="viewPageTest()[pri:2, instance:by.htp.news.service.impl.TestService@6e1567f1]" name="viewPageTest" duration-ms="460" started-at="2017-09-30T10:27:32Z" finished-at="2017-09-30T10:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewPageTest -->
+        <test-method status="PASS" signature="addNewsTest()[pri:3, instance:by.htp.news.service.impl.TestService@6e1567f1]" name="addNewsTest" duration-ms="431" started-at="2017-09-30T10:27:33Z" finished-at="2017-09-30T10:27:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewsTest -->
+        <test-method status="PASS" signature="cleanParam()[pri:0, instance:by.htp.news.service.impl.TestService@6e1567f1]" name="cleanParam" is-config="true" duration-ms="1398" started-at="2017-09-30T10:27:33Z" finished-at="2017-09-30T10:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanParam -->
+      </class> <!-- by.htp.news.service.impl.TestService -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
